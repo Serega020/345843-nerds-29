@@ -1,6 +1,6 @@
 # Личный проект «Нёрдс»
 
-* Студент: [Три Десятова](https://up.htmlacademy.ru/htmlcss/29/user/345843).
+* Студент: [Serega020](https://up.htmlacademy.ru/htmlcss/29/user/345843).
 * Наставник: `Неизвестно`.
 
 ---
